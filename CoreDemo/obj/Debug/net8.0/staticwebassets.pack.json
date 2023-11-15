@@ -1,0 +1,481 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\about.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\blog1.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\blog1.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\blog2.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\blog2.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\blog3.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\blog3.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\contact.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\css\\contact.css",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\css\\jquery.desoslide.css",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\css\\jquery.desoslide.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\css\\single.css",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\css\\single.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\css\\style.css",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\b4.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\b5.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\banner5.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\left.png",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\m1.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\m1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\m2.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\m2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\m3.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\m3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\m4.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\m4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\right.png",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\t4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\images\\top_up.png",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\images\\top_up.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\index.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\js\\easing.js",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\js\\jquery-2.2.3.min.js",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\js\\jquery-2.2.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\js\\jquery.desoslide.js",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\js\\jquery.desoslide.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\js\\jquery.flexisel.js",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\js\\jquery.flexisel.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\js\\modernizr.custom.min.js",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\js\\modernizr.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\login.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\register.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\single.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\single.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\w3layouts-license.txt",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\w3layouts-license.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\weberror\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\css\\style.css",
+      "PackagePath": "staticwebassets\\weberror\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\weberror\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\index.html",
+      "PackagePath": "staticwebassets\\weberror\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\C # UYGULAMA\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\w3layouts-license.txt",
+      "PackagePath": "staticwebassets\\weberror\\w3layouts-license.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CoreDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CoreDemo.props",
+      "PackagePath": "build\\CoreDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CoreDemo.props",
+      "PackagePath": "buildMultiTargeting\\CoreDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CoreDemo.props",
+      "PackagePath": "buildTransitive\\CoreDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

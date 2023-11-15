@@ -23,6 +23,7 @@ namespace CoreDemo
 		public void ConfigureServices(IServiceCollection services)
 		{
 			services.AddControllersWithViews();
+			services.AddSession();
 			services.AddMvc(config =>
 			{
 				var policy = new AuthorizationPolicyBuilder()
