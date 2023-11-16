@@ -16,3 +16,4 @@ C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\DataAccessLayer\obj\Debug\net5.0\ref
 C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
 C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.sourcelink.json

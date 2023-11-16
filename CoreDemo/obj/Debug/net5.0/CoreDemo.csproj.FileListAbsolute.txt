@@ -182,3 +182,5 @@ C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\View
 C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\Index.cshtml.g.cs
 C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterProfile.cshtml.g.cs
 C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterMail.cshtml.g.cs
+C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.sourcelink.json
+C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\BlogLast3Blog\Default.cshtml.g.cs

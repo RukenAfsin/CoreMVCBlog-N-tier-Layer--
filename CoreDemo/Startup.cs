@@ -23,7 +23,6 @@ namespace CoreDemo
 		public void ConfigureServices(IServiceCollection services)
 		{
 			services.AddControllersWithViews();
-			services.AddSession();
 			services.AddMvc(config =>
 			{
 				var policy = new AuthorizationPolicyBuilder()
@@ -32,8 +31,6 @@ namespace CoreDemo
 					   .Build();
 				config.Filters.Add(new AuthorizeFilter(policy));
 			});
-
-			services.AddMvc();
 			services.AddAuthentication(
 
 				CookieAuthenticationDefaults.AuthenticationScheme)
@@ -73,8 +70,8 @@ namespace CoreDemo
 			app.UseStaticFiles();
 			app.UseAuthentication();
 
-			app.UseSession();
 			app.UseRouting();
+			app.UseDeveloperExceptionPage();
 
 			app.UseAuthorization();
 

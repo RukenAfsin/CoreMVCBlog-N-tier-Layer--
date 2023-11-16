@@ -9,3 +9,4 @@ C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer
 C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\CoreLayer\obj\Debug\net5.0\refint\CoreLayer.dll
 C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
 C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\User\Desktop\C # UYGULAMA\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.sourcelink.json
