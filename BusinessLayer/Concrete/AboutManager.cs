@@ -14,7 +14,7 @@ namespace BusinessLayer.Concrete
 			_aboutDal = aboutDal;
 		}
 
-        public About GetById(int id)
+        public About TGetById(int id)
         {
             throw new System.NotImplementedException();
         }

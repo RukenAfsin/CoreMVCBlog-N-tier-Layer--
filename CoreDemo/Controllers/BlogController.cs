@@ -1,11 +1,16 @@
 ﻿using BusinessLayer.Concrete;
 using BusinessLayer.ValidationRules;
+using DataAccessLayer.Abstract;
 using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
 using FluentValidation.Results;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection.Metadata;
 
 namespace CoreDemo.Controllers
 {
@@ -13,7 +18,8 @@ namespace CoreDemo.Controllers
 	public class BlogController : Controller
 	{
 		BlogManager bm = new BlogManager(new EfBlogRepository());
-		public IActionResult Index()
+        CategoryManager cm = new CategoryManager(new EfCategoryRepository());
+        public IActionResult Index()
 		{
 			var values = bm.GetBlogListWithCategory();
 			return View(values);
@@ -27,13 +33,25 @@ namespace CoreDemo.Controllers
 
 		public IActionResult BlogListByWriter ()
 		{
-			var values = bm.GetBlogListByWriter(1);
+			var values = bm.GetListWithCategoryByWriterBm(1);
 			return View(values);
 		}
+        private void PopulateCategories()
+        {
+            List<SelectListItem> categoryvalue = (from x in cm.GetList()
+                                                  select new SelectListItem
+                                                  {
+                                                      Text = x.CategoryName,
+                                                      Value = x.CategoryID.ToString()
+                                                  }).ToList();
 
-		[HttpGet]
+            ViewBag.cv = categoryvalue;
+        }
+
+        [HttpGet]
 		public IActionResult BlogAdd()
-		{
+		{   
+            PopulateCategories();
 			return View();
 		}
 
@@ -42,6 +60,7 @@ namespace CoreDemo.Controllers
         {
             BlogValidator bv = new BlogValidator();
             ValidationResult results = bv.Validate(p);
+            PopulateCategories();
             if (results.IsValid)
             {
                 p.BlogStatus = true;
@@ -60,5 +79,37 @@ namespace CoreDemo.Controllers
             return View();
         }
 
+        public IActionResult DeleteBlog(int id)
+		{
+			var blogvalue = bm.TGetById(id);
+			bm.TDelete(blogvalue);
+			return RedirectToAction("BlogListByWriter");
+		}
+
+		[HttpGet]
+		public IActionResult EditBlog(int id)
+		{
+			var blogvalue = bm.TGetById(id);
+
+            List<SelectListItem> categoryvalue = (from x in cm.GetList()
+                                                  select new SelectListItem
+                                                  {
+                                                      Text = x.CategoryName,
+                                                      Value = x.CategoryID.ToString()
+
+                                                  }).ToList();
+			ViewBag.cv=categoryvalue;
+            return View(blogvalue);
+		}
+
+        [HttpPost]
+        public IActionResult EditBlog(Blog p)
+        {
+			//p.WriterID = 1;
+			//p.BlogCreateDate = DateTime.Parse(DateTime.Now.ToShortDateString());
+			//p.BlogStatus = true;
+			bm.TUpdate(p);
+			return RedirectToAction("BlogListByWriter");
+		}
     }
 }

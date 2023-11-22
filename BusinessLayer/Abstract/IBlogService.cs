@@ -6,7 +6,7 @@ namespace BusinessLayer.Abstract
 	public interface IBlogService:IGenericService<Blog>
 	{
 		List<Blog> GetBlogListWithCategory(); // kategoriye göre listeleme gerçekleşiyor
-		List<Blog> GetBlogListByWriter(int id);   //yazara göre
+        List<Blog> GetBlogListByWriter(int id); //yazara göre
 
-	}
+    }
 }

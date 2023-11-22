@@ -1,0 +1,46 @@
+﻿@model EntityLayer.Concrete.Blog
+@{
+    ViewData["Title"] = "EditBlog";
+    Layout = "~/Views/Shared/WriterLayout.cshtml";
+}
+
+<h1>Blog Düzenleme Sayfası</h1>
+<br />
+@using (Html.BeginForm("EditBlog","Blog", FormMethod.Post))
+{
+    @* @Html.Label("Blog ID") *@
+    @Html.HiddenFor(x=>x.BlogID/* , new {@class="form-control"} */)
+  @*   <br />
+    @Html.Label("Blog Durumu") *@
+    @Html.HiddenFor(x => x.BlogStatus/* , new {@class="form-control"} */)
+@*     <br />
+    @Html.Label("Writer ID") *@
+    @Html.HiddenFor(x => x.WriterID/* , new {@class="form-control"} */)
+@*     <br />
+    @Html.Label("Blog Create Date") *@
+    @Html.HiddenFor(x => x.BlogCreateDate/* , new {@class="form-control"} */)
+    <br />
+    @Html.Label("Blog Başlığı")
+    @Html.TextBoxFor(x => x.BlogTitle, new { @class = "form-control" })
+    <br />
+    @Html.Label("Blog ThumNail Url")
+    @Html.TextBoxFor(x => x.BlogThumbNailImage, new { @class = "form-control" })
+
+    <br />
+    @Html.Label("Blog Görseli")
+    @Html.TextBoxFor(x => x.BlogImage, new { @class = "form-control" })
+
+    <br />
+    @Html.Label("Blog Kategori")
+    @Html.DropDownListFor(x => x.CategoryID, (List<SelectListItem>)ViewBag.cv, new { @class = "form-control" })
+    <br />
+    @Html.Label("Blog İçeriği")
+    @Html.TextAreaFor(x => x.BlogContent,10,3, new { @class = "form-control" })
+
+    <br />
+    <button class="btn btn-success">Güncelle</button>
+
+
+
+}
+
