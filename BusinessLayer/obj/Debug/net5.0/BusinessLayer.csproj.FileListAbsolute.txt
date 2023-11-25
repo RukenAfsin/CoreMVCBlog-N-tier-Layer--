@@ -32,4 +32,4 @@ C:\Users\User\Desktop\Applications\CoreDemo\BusinessLayer\obj\Debug\net5.0\Busin
 C:\Users\User\Desktop\Applications\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
 C:\Users\User\Desktop\Applications\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
 C:\Users\User\Desktop\Applications\CoreDemo\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
-C:\Users\User\Desktop\Applications\CoreDemo\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\User\Desktop\Applications\CoreDemo\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
