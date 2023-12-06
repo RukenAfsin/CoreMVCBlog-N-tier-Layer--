@@ -14,6 +14,7 @@
             <div class="card-body">
                 <h4 class="card-title">Yazar Profil Bilgileri Düzenleme</h4>
                 <br />
+                @Html.HiddenFor(x => x.WriterID, new { @class = "form-control" })
                 <form class="forms-sample">
                     <div class="form-group">
                         <label for="exampleInputName1">YazarAd Soyad</label>
