@@ -21,4 +21,4 @@ C:\Users\User\Desktop\Applications\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityL
 C:\Users\User\Desktop\Applications\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
 C:\Users\User\Desktop\Applications\CoreDemo\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
 C:\Users\User\Desktop\Applications\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\Applications\CoreDemo\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\User\Desktop\Applications\CoreDemo\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
