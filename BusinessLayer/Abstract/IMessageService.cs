@@ -9,6 +9,6 @@ namespace BusinessLayer.Abstract
 {
     public interface IMessageService
     {
-        List<Message> GetInboxListByWriter(int p);
+        List<Message> GetInboxListByWriter(string p);
     }
 }

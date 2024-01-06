@@ -23,9 +23,9 @@ namespace BusinessLayer.Concrete
             return _messageDal.GetListAll();
         }
 
-        public List<Message> GetInboxListByWriter(int p)
+        public List<Message> GetInboxListByWriter(string p)
         {
-            return _messageDal.GetListAll(x => x.Receiver==p);
+        return _messageDal.GetListAll(x => x.Receiver==p);
         }
 
         public void TAdd(Message t)
