@@ -196,6 +196,34 @@ namespace DataAccessLayer.Migrations
                     b.ToTable("Contacts");
                 });
 
+            modelBuilder.Entity("EntityLayer.Concrete.Match", b =>
+                {
+                    b.Property<int>("MatchID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int?>("GuestTeamID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("HomeTeamID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("MatchDate")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Stadium")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("MatchID");
+
+                    b.HasIndex("GuestTeamID");
+
+                    b.HasIndex("HomeTeamID");
+
+                    b.ToTable("Matches");
+                });
+
             modelBuilder.Entity("EntityLayer.Concrete.Message", b =>
                 {
                     b.Property<int>("MessageID")
@@ -274,6 +302,21 @@ namespace DataAccessLayer.Migrations
                     b.ToTable("Notifications");
                 });
 
+            modelBuilder.Entity("EntityLayer.Concrete.Team", b =>
+                {
+                    b.Property<int>("TeamID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("TeamName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("TeamID");
+
+                    b.ToTable("Teams");
+                });
+
             modelBuilder.Entity("EntityLayer.Concrete.Writer", b =>
                 {
                     b.Property<int>("WriterID")
@@ -334,6 +377,21 @@ namespace DataAccessLayer.Migrations
                     b.Navigation("Blog");
                 });
 
+            modelBuilder.Entity("EntityLayer.Concrete.Match", b =>
+                {
+                    b.HasOne("EntityLayer.Concrete.Team", "GuestTeam")
+                        .WithMany("AwayMatches")
+                        .HasForeignKey("GuestTeamID");
+
+                    b.HasOne("EntityLayer.Concrete.Team", "HomeTeam")
+                        .WithMany("HomeMatches")
+                        .HasForeignKey("HomeTeamID");
+
+                    b.Navigation("GuestTeam");
+
+                    b.Navigation("HomeTeam");
+                });
+
             modelBuilder.Entity("EntityLayer.Concrete.Blog", b =>
                 {
                     b.Navigation("Comments");
@@ -342,6 +400,13 @@ namespace DataAccessLayer.Migrations
             modelBuilder.Entity("EntityLayer.Concrete.Category", b =>
                 {
                     b.Navigation("Blogs");
+                });
+
+            modelBuilder.Entity("EntityLayer.Concrete.Team", b =>
+                {
+                    b.Navigation("AwayMatches");
+
+                    b.Navigation("HomeMatches");
                 });
 
             modelBuilder.Entity("EntityLayer.Concrete.Writer", b =>

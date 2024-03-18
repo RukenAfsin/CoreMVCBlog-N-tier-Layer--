@@ -382,3 +382,4 @@ C:\Users\User\Desktop\Applications\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\View
 C:\Users\User\Desktop\Applications\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterEditProfile.cshtml.g.cs
 C:\Users\User\Desktop\Applications\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterAdd.cshtml.g.cs
 C:\Users\User\Desktop\Applications\CoreDemo\CoreDemo\obj\Debug\net5.0\refint\CoreDemo.dll
+C:\Users\User\Desktop\Applications\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Notification\AllNotification.cshtml.g.cs
